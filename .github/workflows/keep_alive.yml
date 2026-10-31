@@ -3,7 +3,7 @@ name: Keep Supabase Alive v2
 on:
   schedule:
     # Runs daily at midnight UTC
-    - cron: '*/5 * * * *'
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 jobs:
