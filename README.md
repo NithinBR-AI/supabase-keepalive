@@ -1,4 +1,4 @@
-# Supabase Keep Alive
+# Supabase Keep Alive auto run
 
 Automated GitHub Actions workflow that periodically pings Supabase REST API endpoints to keep projects active and verify database accessibility.
 
